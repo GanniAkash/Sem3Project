@@ -1,3 +1,5 @@
+##
+Author: Damon Bohls
 # shrinquem
 An algorithm for Boolean logic minimization. Shrinquem finds a minimum sum-of-products representation for a given a truth table.
 

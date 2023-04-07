@@ -1,3 +1,4 @@
+Boolean Logic Minimization on arduino with Damon Bhols minimization source code
 ##
 Author: Damon Bohls
 # shrinquem
